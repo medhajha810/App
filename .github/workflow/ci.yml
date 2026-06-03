@@ -19,5 +19,5 @@ jobs:
       - name: List Docker Images
         run: docker images
 
-      - name:test
-        uses:actions/test@v4
+      - name: test
+        uses: actions/test@v4
