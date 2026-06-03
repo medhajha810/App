@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+tests/
+.pytest_cache/
+.git
+.env
+*.tar
+__pycache__
+.git
+.github
+.pytest_cache
+*.pyc
+tests/
